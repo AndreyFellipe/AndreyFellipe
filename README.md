@@ -20,6 +20,7 @@ I am a student of Computer Science at the Federal University of Sergipe, designe
 
 * :hourglass: My hobby is reading fantasy books, learning about new technologies, playing games and watching films.
 
+* :computer: Techs: Python, Html, Haskell
 
   
 
